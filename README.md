@@ -1,2 +1,2 @@
 # Word-Length-Calculator
-You can type whatever you want and see how many characters is the length
+You can type whatever you want and receive the length of it.
