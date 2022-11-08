@@ -1,6 +1,6 @@
 # Word-Length-Calculator
 You can type whatever you want and receive the length of it.
 
-You can try it for yourself here -> https://Word-length-calculator.rosendobrev10.repl.co
+You can try it for yourself here -> https://rosendobrev10.github.io/Word-Length-Calculator/
 
-![image](https://user-images.githubusercontent.com/104829819/192104785-be5a9794-061e-4dd6-bc30-81e696d57756.png)
+![image](https://user-images.githubusercontent.com/104829819/200538948-dd0d6902-284f-4899-9b1c-e4afe3301c24.png)
